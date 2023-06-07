@@ -10,6 +10,7 @@ import { HeaderComponent } from './Components/header/header.component';
 import { Banner1Component } from './Components/banner1/banner1.component';
 import { Banner2Component } from './Components/banner2/banner2.component';
 import { AngularProjectsComponent } from './Pages/angular-projects/angular-projects.component';
+import { TypescriptComponent } from './Pages/typescript/typescript.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { AngularProjectsComponent } from './Pages/angular-projects/angular-proje
     HeaderComponent,
     Banner1Component,
     Banner2Component,
-    AngularProjectsComponent
+    AngularProjectsComponent,
+    TypescriptComponent
   ],
   imports: [
     BrowserModule,

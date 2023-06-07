@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/22bd0a36-9646-40b3-8c07-3a23249b0182/resourceGroups/test/providers/Microsoft.Web/sites/anderson-portfolio",
+    "appService.deploySubpath": "dist"
+}
